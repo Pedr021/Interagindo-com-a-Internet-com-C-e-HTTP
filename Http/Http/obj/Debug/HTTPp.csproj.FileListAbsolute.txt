@@ -1,0 +1,11 @@
+C:\Users\pedro\source\repos\HTTPp\HTTPp\bin\Debug\HTTPp.exe.config
+C:\Users\pedro\source\repos\HTTPp\HTTPp\bin\Debug\HTTPp.exe
+C:\Users\pedro\source\repos\HTTPp\HTTPp\bin\Debug\HTTPp.pdb
+C:\Users\pedro\source\repos\HTTPp\HTTPp\obj\Debug\HTTPp.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\HTTPp\HTTPp\obj\Debug\HTTPp.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\HTTPp\HTTPp\obj\Debug\HTTPp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\HTTPp\HTTPp\obj\Debug\HTTPp.exe
+C:\Users\pedro\source\repos\HTTPp\HTTPp\obj\Debug\HTTPp.pdb
+C:\Users\pedro\source\repos\HTTPp\HTTPp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro\source\repos\HTTPp\HTTPp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pedro\source\repos\HTTPp\HTTPp\obj\Debug\HTTPp.csproj.CopyComplete
